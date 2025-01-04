@@ -1,2 +1,2 @@
 # synology_uploader
-stupid synology photos OOM all the time
+stupid synology photos OOMs all the time
